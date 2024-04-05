@@ -6,33 +6,33 @@ I am a web developer from the south-western part of Norway. I am really passiona
 
 ---
 
-## 🛠️ Tools and Languages
+### 🛠️ Tools and Languages
 
-<img align="left" alt="html5" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="html5" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-<img align="left" alt="html5" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-<img align="left" alt="html5" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="html5" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-<img align="left" alt="html5" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="VSCode" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="HTML5" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS3" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="NodeJS" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img align="left" alt="Git" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <br/><br/>
 
 ---
 
-### 🔭 I’m currently working on leveling up my coding skills
+#### 🔭 I’m currently working on leveling up my coding skills
 
-### 🌱 I’m currently learning advanced JavaScript
+#### 🌱 I’m currently learning advanced JavaScript
 
-### 🥅 2024 Goals: Become a professional web developer
+#### 🥅 2024 Goals: Become a professional web developer
 
-### 💬 Ask me about my passion for web development and programming
+#### 💬 Ask me about my passion for web development and programming
 
-### 📫 How to reach me: [olavr.dev [at] google.com](mailto:olavr.dev@gmail.com)
+#### 📫 How to reach me: [olavr.dev[at]google.com](mailto:olavr.dev@gmail.com)
 
-### ⚡ Fun fact: My middle name means "Eye" in Norwegian and is pronounced "Oh Yeah" in English
+#### ⚡ Fun fact: My middle name means "Eye" in Norwegian and is pronounced "Oh Yeah" in English
 
 ---
 
-### 📊 Stats
+### 📊 Statistics
 
 ![Olav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olavr-dev&hide=prs&show_icons=true&theme=github_dark_dimmed)
 
@@ -46,4 +46,4 @@ After I sold the web site, real-life took over and I fell out of the web develop
 
 In march of 2024 I decided to put all my time and effort into becoming a professional web developer and eventually make the switch from my current day job (CNC Programmer/Operator) to making a living out of what I truly have a passion for. I am still kicking my 20-year-old self for not getting into computer science at college when I had the chance, but I did not have the right mindset at the time.
 
-I am fully aware that the self-taught web developer route is a difficult one, and I do not expect this to be a walk in the park. However I am prepared to do whatever it takes to make this dream a reality.
+I am fully aware that the self-taught web developer route is a difficult one, and I do not expect this to be a walk in the park. However I am prepared to do whatever it takes to make my life long dream a reality.
