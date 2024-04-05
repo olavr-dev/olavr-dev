@@ -2,7 +2,7 @@
 
 **💻`Web Developer` 🧑‍💻 `Programmer` 🎨 `Designer`**
 
-I am a web developer from the south-western part of Norway. I am really passionate about coding and learning how all the `0`'s and `1`'s fit together. Join me on my quest to solve whatever real-life problems I encounter with code. All coding projects are built from the ground up by me unless mentioned otherwise.
+I am a web developer from the south-western part of Norway. I am really passionate about coding and learning how all the `0`'s and `1`'s fit together. Join me on my quest to solve whatever real-life problems I encounter using code. All my projects are built from the ground up by me unless mentioned otherwise.
 
 ---
 
@@ -29,6 +29,12 @@ I am a web developer from the south-western part of Norway. I am really passiona
 ### 📫 How to reach me: [olavr.dev [at] google.com](mailto:olavr.dev@gmail.com)
 
 ### ⚡ Fun fact: My middle name means "Eye" in Norwegian and is pronounced "Oh Yeah" in English
+
+---
+
+### 📊 Stats
+
+![Olav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olavr-dev&hide=prs&show_icons=true&theme=github_dark_dimmed)
 
 ---
 
