@@ -6,7 +6,7 @@ I am a web developer from the south-western part of Norway. I am really passiona
 
 ---
 
-### 🛠️ Tools and Languages
+## 🛠️ Tools and Languages
 
 <img align="left" alt="html5" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="html5" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
@@ -18,17 +18,17 @@ I am a web developer from the south-western part of Norway. I am really passiona
 
 ---
 
-#### 🔭 I’m currently working on leveling up my coding skills
+### 🔭 I’m currently working on leveling up my coding skills
 
-#### 🌱 I’m currently learning advanced JavaScript
+### 🌱 I’m currently learning advanced JavaScript
 
-#### 🥅 2024 Goals: Become a professional web developer
+### 🥅 2024 Goals: Become a professional web developer
 
-#### 💬 Ask me about my passion for web development and programming
+### 💬 Ask me about my passion for web development and programming
 
-#### 📫 How to reach me: [olavr.dev [at] google.com](mailto:olavr.dev@gmail.com)
+### 📫 How to reach me: [olavr.dev [at] google.com](mailto:olavr.dev@gmail.com)
 
-#### ⚡ Fun fact: My middle name means "Eye" in Norwegian and is pronounced "Oh Yeah" in English
+### ⚡ Fun fact: My middle name means "Eye" in Norwegian and is pronounced "Oh Yeah" in English
 
 ---
 
