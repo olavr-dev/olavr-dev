@@ -48,7 +48,7 @@ I am a full stack web developer from Norway. I am really passionate about progra
 
 ## 🚀 March 5th 2024 - Time to start learning
 
-**Step 1** 🧑🏻‍💻 **[100 Days of Code - 2024 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)** _by Academind_
+**Step 1** 🧑🏻‍💻 `in progress` **[100 Days of Code - 2024 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)** _by Academind_
 
 **Step 2** 🧑🏻‍💻 **[The Odin Project](https://www.theodinproject.com/)** - Learning more web development. More learning by doing on my own.
 
