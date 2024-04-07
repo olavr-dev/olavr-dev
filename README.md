@@ -1,19 +1,19 @@
-# 🧑‍💻 Olav Oye Rorvik
+# 🧑🏻‍💻 Olav Oye Rorvik
 
-**💻`Web Developer` 🧑‍💻 `Programmer` 🎨 `Designer`**
+**💻`Full Stack Web Developer`**
 
-I am a web developer from the south-western part of Norway. I am really passionate about coding and learning how all the `0`'s and `1`'s fit together. Join me on my quest to solve whatever real-life problems I encounter using code. All my projects are built from the ground up by me unless mentioned otherwise.
+I am a full stack web developer from Norway. I am really passionate about programming and learning how all the `0`'s and `1`'s of the internet works. On this page you get to join me on my quest to solve whatever real-life problems I encounter using code.
 
 ---
 
 ### 🛠️ Tools and Languages
 
 <img align="left" alt="VSCode" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Git" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="HTML5" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS3" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="NodeJS" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-<img align="left" alt="Git" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <br/><br/>
 
 ---
@@ -50,7 +50,7 @@ I am a web developer from the south-western part of Norway. I am really passiona
 
 **Step 1** 🧑🏻‍💻 **[100 Days of Code - 2024 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)** _by Academind_
 
-**Step 2** 🧑🏻‍💻 **[Odin Project](https://www.theodinproject.com/)** - Learning more web development without as much hand-holding.
+**Step 2** 🧑🏻‍💻 **[The Odin Project](https://www.theodinproject.com/)** - Learning more web development. More learning by doing on my own.
 
 - **JavaScript** track first
 - **Ruby** track second
@@ -75,7 +75,7 @@ To get a basic understanding of data structures and algorithms, read the followi
 
 📖 **Read the first half of the book ["Computer Science Distilled"](https://code.energy/computer-science-distilled/#get-your-copy)** _by Wladston Ferreira Filho_
 
-📖 **ead the first half of the book ["Grokking Algorithms"](https://www.ark.no/produkt/boker/fagboker/grokking-algorithms-9781617292231)** _by Aditya Bhargava_
+📖 **Read the first half of the book ["Grokking Algorithms"](https://www.ark.no/produkt/boker/fagboker/grokking-algorithms-9781617292231)** _by Aditya Bhargava_
 
 ---
 
