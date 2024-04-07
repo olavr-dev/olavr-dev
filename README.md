@@ -41,7 +41,7 @@ I am a web developer from the south-western part of Norway. I am really passiona
 <br>
 
 <details>
-<summary style="font-size: 20px; font-weight:bold;">🗺️ Click to view my Web Developer Roadmap</summary>
+<summary><h2>🗺️ Click to view my Web Developer Roadmap</h2></summary>
 <br>
 
 ⚡ **_This is how I plan to do my web developer journey_** ⚡
@@ -147,7 +147,7 @@ In no particular order :
 <br>
 
 <details>
-<summary style="font-size: 20px; font-weight:bold;">🕹️ Click to read more about my coding journey</summary>
+<summary><h2>🕹️ Click to read more about my coding journey</h2></summary>
 <br>
 
 I started my coding journey all the way back in 1999 and made my first simple web sites related to my first car - a 1978 Ford Escort RS2000 Replica. After a few years, and several homepage projects, I decided to learn how to actually build web pages with HTML and CSS. This lead tot he creation of a discussion board called EscortPower.net. This website was quite popular in the Ford Escort community at the time and had good number of daily users. I developed this site from 2002 to 2004 when it was sold to a automotive decal sticker company that wanted to integrate their business into the site.
