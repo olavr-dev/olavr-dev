@@ -40,7 +40,7 @@ I am a web developer from the south-western part of Norway. I am really passiona
 
 <br>
 
-<details open>
+<details>
 <summary style="font-size: 20px; font-weight:bold;">🗺️ Click to view my Web Developer Roadmap</summary>
 <br>
 
@@ -146,7 +146,7 @@ In no particular order :
 </details>
 <br>
 
-<details open>
+<details>
 <summary style="font-size: 20px; font-weight:bold;">🕹️ Click to read more about my coding journey</summary>
 <br>
 
