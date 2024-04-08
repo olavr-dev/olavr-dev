@@ -8,12 +8,12 @@ I am a full stack web developer from Norway. I am really passionate about progra
 
 ### 🛠️ Tools and Languages
 
-<img align="left" alt="VSCode" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Git" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="HTML5" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS3" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="NodeJS" width="40px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img align="left" alt="VSCode" width="4%" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Git" width="4%" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="HTML5" width="4%" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS3" width="4%" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="4%" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="NodeJS" width="4%" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
 <br/><br/>
 
 ---
@@ -41,7 +41,7 @@ I am a full stack web developer from Norway. I am really passionate about progra
 <br>
 
 <details>
-<summary><h2>🗺️ Click to view my Web Developer Roadmap</h2></summary>
+<summary><h2>🗺️ My Web Developer Roadmap</h2></summary>
 <br>
 
 ⚡ **_This is how I plan to do my web developer journey_** ⚡
@@ -147,7 +147,7 @@ In no particular order :
 <br>
 
 <details>
-<summary><h2>🕹️ Click to read more about my coding journey</h2></summary>
+<summary><h2>🕹️ My Coding Journey</h2></summary>
 <br>
 
 I started my coding journey all the way back in 1999 and made my first simple web sites related to my first car - a 1978 Ford Escort RS2000 Replica. After a few years, and several homepage projects, I decided to learn how to actually build web pages with HTML and CSS. This lead tot he creation of a discussion board called EscortPower.net. This website was quite popular in the Ford Escort community at the time and had good number of daily users. I developed this site from 2002 to 2004 when it was sold to a automotive decal sticker company that wanted to integrate their business into the site.
