@@ -8,7 +8,6 @@ I am a full stack web developer from Norway. I am really passionate about progra
 
 ### 🛠️ Tools and Languages
 
-<br>
 <img align="left" alt="VSCode" width="8%" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Git" width="8%" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="HTML5" width="8%" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
