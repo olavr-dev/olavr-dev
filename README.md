@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&fontColor=f5f5f5&section=header&text=🙋🏻‍♂️Hi,%20I%20am%20Olav&fontSize=50&theme=github_dark_dimmed)
 
-**💻`Web Developer`** **🧑🏻‍💻`Programmer`** **🤓`Nerd`** **🕹️`Gamer`**
+### `💻Web Developer` `🧑🏻‍💻Programmer` `🤓Nerd` `🕹️Gamer`
 
 I am a web developer and programmer from Norway. I am really passionate about programming and enjoy finding out what all the `0`'s and `1`'s do. On this page you get to join me on my quest to solve whatever real-life problems I encounter using code.
+
+```python
+print("Hello, world!")
+```
 
 ---
 
