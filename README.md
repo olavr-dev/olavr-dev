@@ -6,33 +6,43 @@ I am a web developer and programmer from Norway. I am really passionate about pr
 
 ---
 
-### 🛠️ Tools and Languages
+### 🛠️ What is in my toolbox?
 
-<img align="left" alt="VSCode" width="8%" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Git" width="8%" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="HTML5" width="8%" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS3" width="8%" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="8%" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="NodeJS" width="8%" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img align="left" alt="VSCode" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Git" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="HTML5" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS3" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="NodeJS" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img align="left" alt="NodeJS" width="45px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <br/><br/>
-<br><br>
 
 ---
 
 ### 👋🏻 A little bit about me and my interests
 
-```yaml
-full_name: Olav Oye Rorvik
-located_in: Sandnes, Norway
-education: Self-Taught Developer
+```javascript
+firstName = 'Olav';
+middleName = 'Oye';
+lastName = 'Rorvik';
+city = 'Sandnes';
+country = 'Norway';
+education = 'Self-Taught Developer';
 
-completed_courses: ['to be announced']
+currentlyStudying = {
+  courseName: '100 Days Of Code - 2024 Web Developer Bootcamp',
+  startDate: '05-mar-2024',
+};
+currentlyLearning = 'MySQL';
 
-fields_of_interests: ['Web Development', 'UI/UX Design', 'Game Development']
+fieldsOfInterests = ['Web Development', 'UI/UX Design', 'Game Development'];
 
-currently_learning: Advanced JavaScript
-
-goals_this_year: ['Master programming fundamentals, Create a portfolio page, Become a professional web developer']
+goalsThisYear = [
+  'Master programming fundamentals',
+  'Create a portfolio page',
+  'Become a professional web developer',
+  'Make my wife her dream Crochet Blog',
+];
 ```
 
 ### 📫 Learn more about me and how to get in touch on my [portfolio page](https://olavr.dev)
@@ -164,3 +174,7 @@ After I sold the web site, real-life took over and I fell out of the web develop
 In march of 2024 I decided to put all my time and effort into becoming a professional web developer and eventually make the switch from my current day job (CNC Programmer/Operator) to making a living out of what I truly have a passion for. I am still kicking my 20-year-old self for not getting into computer science at college when I had the chance, but I did not have the right mindset at the time.
 
 Going the self-taught web developer route is a difficult one, but I am prepared to do whatever it takes to make my life long dream a reality.
+
+```
+
+```
