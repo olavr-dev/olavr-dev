@@ -2,7 +2,7 @@
 
 **💻`Web Developer`** **🧑🏻‍💻`Programmer`** **🤓`Nerd`** **🕹️`Gamer`**
 
-I am a web developer and programmer from Norway. I am really passionate about programming and figuring out how all the `0`'s and `1`'s work. On this page you get to join me on my quest to solve whatever real-life problems I encounter using code.
+I am a web developer and programmer from Norway. I am really passionate about programming and enjoy finding out what all the `0`'s and `1`'s do. On this page you get to join me on my quest to solve whatever real-life problems I encounter using code.
 
 ---
 
@@ -43,6 +43,8 @@ goals_this_year: ['Master programming fundamentals, Create a portfolio page, Bec
 
 ### 📊 Stats For Nerds 🤓
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=olavr-dev&theme=github-dark-dimmed)](https://github.com/olavr-dev)
+
 <a href="https://github.com/olavr-dev?tab=repositories">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=olavr-dev&theme=github_dark_dimmed" />
 </a>
@@ -50,13 +52,13 @@ goals_this_year: ['Master programming fundamentals, Create a portfolio page, Bec
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olavr-dev&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+### 🔖 Featured Repositories - [View All Repositories](https://github.com/olavr-dev?tab=repositories)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=olavr-dev&repo=10_milestone-tic-tac-toe&theme=github_dark_dimmed)](https://github.com/olavr-dev/10_milestone-tic-tac-toe)
+
 ---
 
-<br>
-
-<details>
-<summary><h2>🗺️ My Web Developer Roadmap</h2></summary>
-<br>
+## 🗺️ My Web Developer Roadmap
 
 ⚡ **_This is how I plan to do my web developer journey_** ⚡
 
@@ -155,12 +157,7 @@ In no particular order :
 
 📖 **Read the book ["Algorithms"](https://www.amazon.com/Algorithms-Jeff-Erickson/dp/1792644833)** _by Jeff Erickson_
 
-</details>
-<br>
-
-<details>
-<summary><h2>🕹️ My Coding Journey</h2></summary>
-<br>
+## 🕹️ My Coding Journey
 
 I started my coding journey all the way back in 1999 and made my first simple web sites related to my first car - a 1978 Ford Escort RS2000 Replica. After a few years, and several homepage projects, I decided to learn how to actually build web pages with HTML and CSS. This lead tot he creation of a discussion board called EscortPower.net. This website was quite popular in the Ford Escort community at the time and had good number of daily users. I developed this site from 2002 to 2004 when it was sold to a automotive decal sticker company that wanted to integrate their business into the site.
 
@@ -169,5 +166,3 @@ After I sold the web site, real-life took over and I fell out of the web develop
 In march of 2024 I decided to put all my time and effort into becoming a professional web developer and eventually make the switch from my current day job (CNC Programmer/Operator) to making a living out of what I truly have a passion for. I am still kicking my 20-year-old self for not getting into computer science at college when I had the chance, but I did not have the right mindset at the time.
 
 Going the self-taught web developer route is a difficult one, but I am prepared to do whatever it takes to make my life long dream a reality.
-
-</details>
