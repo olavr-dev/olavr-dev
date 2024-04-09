@@ -1,4 +1,6 @@
-# 🙋🏻‍♂️ Hi, I am Olav Oye Rorvik
+<p>
+  <img src="https://capsule-render.vercel.app/api?text=🙋🏻‍♂️Hi, I am Olav Oye Rorvik&animation=fadeIn&type=waving&color=gradient&fontColor=f5f5f5&fontSize=60&height=100"/>
+</p>
 
 **💻`Web Developer`** **🧑🏻‍💻`Programmer`** **🤓`Nerd`** **🕹️`Gamer`**
 
@@ -29,7 +31,7 @@ I am a web developer and programmer from Norway. I am really passionate about pr
 
 #### 💬 Ask me about my passion for web development and programming
 
-#### 📫 Get in touch by checking out my [portfolio page](https://olavr.dev)
+#### 📫 Learn more about me and how to get in touch on my [portfolio page](https://olavr.dev)
 
 #### ⚡ Fun fact: My middle name means "Eye" in Norwegian and is pronounced "Oh Yeah" in English
 
