@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🙋🏻‍♂️Hi,%20I%20am%20Olav%20Oye%20Rorvik&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🙋🏻‍♂️Hi,%20I%20am%20Olav&fontSize=50)
 
 **💻`Web Developer`** **🧑🏻‍💻`Programmer`** **🤓`Nerd`** **🕹️`Gamer`**
 
@@ -19,28 +19,34 @@ I am a web developer and programmer from Norway. I am really passionate about pr
 
 ---
 
-### 👋🏻 Some quick points about me
+### 👋🏻 A little bit about me and my interests
 
-#### 🔭 I’m currently working on leveling up my coding skills
+```yaml
+full_name: Olav Oye Rorvik
+located_in: Sandnes, Norway
+education: Self-Taught Developer
 
-#### 🌱 I’m currently learning advanced JavaScript
+completed_courses: ['to be announced']
 
-#### 🥅 My goal is to become a professional web developer
+fields_of_interests: ['Web Development', 'UI/UX Design', 'Game Development']
 
-#### 💬 Ask me about my passion for web development and programming
+currently_learning: Advanced JavaScript
 
-#### 📫 Learn more about me and how to get in touch on my [portfolio page](https://olavr.dev)
+goals_this_year: ['Master programming fundamentals, Create a portfolio page, Become a professional web developer']
+```
 
-#### ⚡ Fun fact: My middle name means "Eye" in Norwegian and is pronounced "Oh Yeah" in English
+### 📫 Learn more about me and how to get in touch on my [portfolio page](https://olavr.dev)
+
+### ⚡ Fun fact: My middle name means "Eye" in Norwegian and is pronounced "Oh Yeah" in English 😁
 
 ---
 
-### 📊 Statistics
+### 📊 Stats For Nerds 🤓
 
-<a href="https://github.com/olavr-dev/github-readme-stats">
+<a href="https://github.com/olavr-dev?tab=repositories">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=olavr-dev&theme=github_dark_dimmed" />
 </a>
-<a href="https://github.com/olavr-dev/convoychat">
+<a href="https://github.com/olavr-dev?tab=repositories">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olavr-dev&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=320" />
 </a>
 
