@@ -43,7 +43,7 @@ goals_this_year: ['Master programming fundamentals, Create a portfolio page, Bec
 
 ### 📊 Stats For Nerds 🤓
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=olavr-dev&theme=github-dark-dimmed)](https://github.com/olavr-dev)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=olavr-dev&theme=github-dark-dimmed)](https://github.com/olavr-dev?tab=repositories)
 
 <a href="https://github.com/olavr-dev?tab=repositories">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=olavr-dev&theme=github_dark_dimmed" />
