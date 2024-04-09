@@ -2,7 +2,7 @@
 
 ### `💻Web Developer` `🧑🏻‍💻Programmer` `🤓Nerd` `🕹️Gamer`
 
-I am a web developer and programmer from Norway. I am really passionate about computers and programming. It is fun to play around with all the `0`'s and `1`'s of a computer and seeing what they actually do.
+I am a web developer and programmer from Norway. I am really passionate about computers, programming, web development, and everything else related to it. It is immensely satisfying to write a line or two of code and figuring out what all the `0`'s and `1`'s of a computer actually do.
 
 On this page you get to join me on my quest to solve whatever real-life problems I encounter using code.
 
