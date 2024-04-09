@@ -2,7 +2,7 @@
 
 **💻`Web Developer`** **🧑🏻‍💻`Programmer`** **🤓`Nerd`** **🕹️`Gamer`**
 
-I am a web developer and programmer from Norway. I am really passionate about programming and learning how all the `0`'s and `1`'s of the internet works. On this page you get to join me on my quest to solve whatever real-life problems I encounter using code.
+I am a web developer and programmer from Norway. I am really passionate about programming and figuring out how all the `0`'s and `1`'s work. On this page you get to join me on my quest to solve whatever real-life problems I encounter using code.
 
 ---
 
@@ -41,7 +41,7 @@ I am a web developer and programmer from Norway. I am really passionate about pr
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=olavr-dev&theme=github_dark_dimmed" />
 </a>
 <a href="https://github.com/olavr-dev/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olavr-dev&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olavr-dev&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=300" />
 </a>
 
 ---
