@@ -106,8 +106,6 @@ At this point, I have enough 🛠️ tools in my 🧰 toolbox for most entry lev
 - **SQL databases** (The Odin Project Ruby track)
 - **NoSQL databases** (The Odin Project JavaScript track)
 
-### 🏢 Time to start applying for jobs 🥳
-
 ## 🚀 So what is next?
 
 In no particular order :
@@ -134,7 +132,7 @@ In no particular order :
 
 📖 **Read the second half of the book ["Computer Science Distilled"](https://code.energy/computer-science-distilled/#get-your-copy)** _by Wladston Ferreira Filho_
 
-📖 **ead the second half of the book ["Grokking Algorithms"](https://www.manning.com/books/grokking-algorithms-second-edition)** _by Aditya Bhargava_
+📖 **Read the second half of the book ["Grokking Algorithms"](https://www.manning.com/books/grokking-algorithms-second-edition)** _by Aditya Bhargava_
 
 ⚡ Watch **[Abdul Bari's Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)** playlist on Youtube.
 
