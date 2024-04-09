@@ -38,10 +38,10 @@ I am a web developer and programmer from Norway. I am really passionate about pr
 ### 📊 Statistics
 
 <a href="https://github.com/olavr-dev/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=olavr-dev&theme=github_dark_dimmed" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=olavr-dev&theme=github_dark_dimmed" />
 </a>
 <a href="https://github.com/olavr-dev/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olavr-dev&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=300" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olavr-dev&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ---
