@@ -1,8 +1,8 @@
-# 🧑🏻‍💻 Olav Oye Rorvik
+# 🙋🏻‍♂️ Hi, I am Olav Oye Rorvik
 
-**💻`Full Stack Web Developer`**
+**💻`Web Developer`** **🧑🏻‍💻`Programmer`** **🤓`Nerd`** **🕹️`Gamer`**
 
-I am a full stack web developer from Norway. I am really passionate about programming and learning how all the `0`'s and `1`'s of the internet works. On this page you get to join me on my quest to solve whatever real-life problems I encounter using code.
+I am a web developer and programmer from Norway. I am really passionate about programming and learning how all the `0`'s and `1`'s of the internet works. On this page you get to join me on my quest to solve whatever real-life problems I encounter using code.
 
 ---
 
@@ -25,11 +25,11 @@ I am a full stack web developer from Norway. I am really passionate about progra
 
 #### 🌱 I’m currently learning advanced JavaScript
 
-#### 🥅 2024 Goals: Become a professional web developer
+#### 🥅 My goal is to become a professional web developer
 
 #### 💬 Ask me about my passion for web development and programming
 
-#### 📫 How to reach me: [olavr.dev[at]google.com](mailto:olavr.dev@gmail.com)
+#### 📫 Get in touch by checking out my [portfolio page](https://olavr.dev)
 
 #### ⚡ Fun fact: My middle name means "Eye" in Norwegian and is pronounced "Oh Yeah" in English
 
@@ -37,7 +37,12 @@ I am a full stack web developer from Norway. I am really passionate about progra
 
 ### 📊 Statistics
 
-![Olav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olavr-dev&hide=prs&show_icons=true&theme=github_dark_dimmed)
+<a href="https://github.com/olavr-dev/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=olavr-dev&theme=github_dark_dimmed" />
+</a>
+<a href="https://github.com/olavr-dev/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olavr-dev&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
 
