@@ -60,9 +60,7 @@ goals_this_year: ['Master programming fundamentals, Create a portfolio page, Bec
 
 ## 🗺️ My Web Developer Roadmap
 
-⚡ **_This is how I plan to do my web developer journey_** ⚡
-
-## 🚀 March 5th 2024 - Time to start learning
+### ⚡ **_This is how I plan to do my web developer journey_** ⚡
 
 **Step 1** 🧑🏻‍💻 `in progress` **[100 Days of Code - 2024 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/)** _by Academind_
 
