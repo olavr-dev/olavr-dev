@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🙋🏻‍♂️Hi,%20I%20am%20Olav&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&fontColor=f5f5f5&section=header&text=🙋🏻‍♂️Hi,%20I%20am%20Olav&fontSize=50&theme=github_dark_dimmed)
 
 **💻`Web Developer`** **🧑🏻‍💻`Programmer`** **🤓`Nerd`** **🕹️`Gamer`**
 
