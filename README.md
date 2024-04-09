@@ -1,6 +1,4 @@
-<p>
-  <img src="https://capsule-render.vercel.app/api?text=🙋🏻‍♂️Hi, I am Olav Oye Rorvik&animation=fadeIn&type=waving&color=gradient&fontColor=f5f5f5&fontSize=60&height=100"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=🙋🏻‍♂️Hi,%20I%20am%20Olav%20Oye%20Rorvik&fontSize=50)
 
 **💻`Web Developer`** **🧑🏻‍💻`Programmer`** **🤓`Nerd`** **🕹️`Gamer`**
 
