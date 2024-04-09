@@ -21,28 +21,21 @@ I am a web developer and programmer from Norway. I am really passionate about pr
 
 ### 👋🏻 A little bit about me and my interests
 
-```javascript
-firstName = 'Olav';
-middleName = 'Oye';
-lastName = 'Rorvik';
-city = 'Sandnes';
-country = 'Norway';
-education = 'Self-Taught Developer';
+```yaml
+name: Olav Øye Rørvik
+located_in: Sandnes, Norway
+education: Self-Taught Developer
 
-currentlyStudying = {
-  courseName: '100 Days Of Code - 2024 Web Developer Bootcamp',
-  startDate: '05-mar-2024',
-};
-currentlyLearning = 'MySQL';
+currently_studying: ["100 Days Of Code - 2024 Web Developer Bootcamp"]
 
-fieldsOfInterests = ['Web Development', 'UI/UX Design', 'Game Development'];
+fields_of_interests: ["Web Development", "UI/UX Design", "Game Development"];
 
-goalsThisYear = [
-  'Master programming fundamentals',
-  'Create a portfolio page',
-  'Become a professional web developer',
-  'Make my wife her dream Crochet Blog',
-];
+goals_this_year : [
+  "Master programming fundamentals",
+  "Create a portfolio page",
+  "Become a professional web developer",
+  "Make my wife her dream crochet blog site",
+]
 ```
 
 ### 📫 Learn more about me and how to get in touch on my [portfolio page](https://olavr.dev)
