@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&fontColor=f5f5f5&section=header&text=🙋🏻‍♂️Hi,%20I%20am%20Olav&fontSize=50&theme=github_dark_dimmed)
 
-### `💻Web Developer` `🧑🏻‍💻Programmer` `🤓Nerd` `🕹️Gamer`
+### `💻 Web Developer` `🧑🏻‍💻 Programmer` `🤓 Nerd` `🕹️ Gamer`
 
 I am a web developer and programmer from Norway. I am really passionate about computers, programming, web development, and everything else related to it. It is immensely satisfying to write a line or two of code and figuring out what all the `0`'s and `1`'s of a computer actually do.
 
@@ -170,7 +170,3 @@ In no particular order :
 I started my coding journey all the way back in 1999 and made my first simple web sites related to my first car - a 1978 Ford Escort RS2000 Replica. After a few years, and several homepage projects, I decided to learn how to actually build web pages with HTML and CSS. This lead tot he creation of a discussion board called EscortPower.net. This website was quite popular in the Ford Escort community at the time and had good number of daily users. I developed this site from 2002 to 2004 when it was sold to a automotive decal sticker company that wanted to integrate their business into the site.
 
 After I sold the web site, real-life took over and I fell out of the web development game for quite a number of years. I dabbled a bit with various CMS discussion board sites and also made an effort to learn PHP. This was when PHP was in version 3, and I have long since forgot most of what I learned then.
-
-In march of 2024 I decided to put all my time and effort into becoming a professional web developer and eventually make the switch from my current day job (CNC Programmer/Operator) to making a living out of what I truly have a passion for. I am still kicking my 20-year-old self for not getting into computer science at college when I had the chance, but I did not have the right mindset at the time.
-
-Going the self-taught web developer route is a difficult one, but I am prepared to do whatever it takes to make my life long dream a reality.
